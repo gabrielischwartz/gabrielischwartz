@@ -1,4 +1,4 @@
-## Hi I'm Gabe
+## Hi I'm Gabe Schwartz
 
 Student at Emory Unviersity studying Quantitative Sciences and Computer Informatics
 
