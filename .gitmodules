@@ -1,0 +1,3 @@
+[submodule "NewsProject"]
+	path = NewsProject
+	url = https://github.com/gabrielischwartz/NewsProject.git
